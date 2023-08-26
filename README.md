@@ -19,7 +19,6 @@
 - Senior student at Universidad del Valle, Colombia
 - Love videogames and boardgames
 - Watch lots of anime 
-- Currently working on Lab Digital BdB as an Intern
 - Love learning new topics related to Computer Science
 
 <br><br>
