@@ -16,7 +16,9 @@
 
 <br>
 
-- Senior student at Universidad del Valle, Colombia
+- Systems Enginner - Universidad del Valle, Colombia
+- Research Asistant - Universidad ICESI, Colombia
+- Engineering Research Master's Degree Student - Universidad ICESI, Colombia
 - Love videogames and boardgames
 - Watch lots of anime 
 - Love learning new topics related to Computer Science
@@ -88,9 +90,8 @@
 <div align="center">
 
 <a href="https://github.com/Kelocoes/">
-  <img src="https://github-readme-stats.vercel.app/api?username=kelocoes&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kelocoes&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="kelocoes"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=kelocoes&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
 </a>
 </div>
 
@@ -124,4 +125,4 @@
 	
 </ul>
 </div>
-Last Edited on: 31/05/2023
+Last Edited on: 03/03/2024
